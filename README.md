@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+I'm Dhea! I'm an aspiring data professional with strong determination and a passion for learning.
 
+### 🔧 Tools & Languages
 <!--
 **Dheaagstnnn/Dheaagstnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
